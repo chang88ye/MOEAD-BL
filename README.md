@@ -5,3 +5,5 @@ MOEA/D-BL is a bio-inspired algorithm for multi/many-objective optimisation thro
 
 ![](MOEADBL.png)
 
+# ***How to use***
+MOEA/D-BL is implemented in MATALB compatible with the popular PlatEMO platform for algorithm comparison and analysis. It can be directly added into PlatEMO 1.5 as a package for instant use. It may need some changes if you use other versions of PlatEMO.
